@@ -35,13 +35,12 @@ I believe we have no limits to knowledge. I like to know different areas, activi
 
 <p>If you are interested in contacting me, send me a message or email on my social networks below </p>
 
-
-<!--
-
 <div>
 <a href = "mailto:manuel.ventura.neto@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/manuel-ventura-neto/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+<!--
 
 <div>
 <a href="https://github.com/ManuelVenturaNeto">
